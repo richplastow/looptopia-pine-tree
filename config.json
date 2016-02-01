@@ -1,5 +1,5 @@
 {
-  "description": "The setup coniguration",
-  "foo": 1,
-  "bar": true
+  "description": "The setup configuration",
+  "foo": "ok",
+  "bar": "yup"
 }
